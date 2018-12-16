@@ -1,0 +1,33 @@
+<archimate:ArchimateModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Test"
+    id="9206683f-7418-4378-9b0d-01e5a1a4292f"
+    version="4.0.1">
+  <properties
+      key="Report:Model:Hide:Business"
+      value="false"/>
+  <properties
+      key="Report:Model:Hide:Application"
+      value="false"/>
+  <properties
+      key="Report:Model:Hide:Technology&amp;Physical"
+      value="false"/>
+  <properties
+      key="Report:Model:Hide:Motivation"
+      value="false"/>
+  <properties
+      key="Report:Model:Hide:Implementation&amp;Migration"
+      value="false"/>
+  <properties
+      key="Report:Model:Hide:Other"
+      value="false"/>
+  <properties
+      key="Report:Model:Hide:Relations"
+      value="false"/>
+  <properties
+      key="Report:Model:Hide:Views"
+      value="false"/>
+  <properties
+      key="Report:Model:Hide:ViewNumbering"
+      value="true"/>
+</archimate:ArchimateModel>
